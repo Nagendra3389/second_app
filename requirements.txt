@@ -1,0 +1,9 @@
+scikit-learn==0.24.2
+matplotlib
+seaborn
+numpy
+pandas
+fastapi
+tfx
+uvicorn
+kfp
